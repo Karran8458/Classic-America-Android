@@ -1,0 +1,16 @@
+AAPT         ä      l   l      
+color/color_selector "PE:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\res\color\color_selector.xml
+å
+9
+android*http://schemas.android.com/apk/res/androidselector*
+
+    E*¡
+˜item"M
+*http://schemas.android.com/apk/res/androidcolor@color/bottom_menu_color"A
+*http://schemas.android.com/apk/res/android
+state_checkedtrue*
+
+    Q*Q
+Iitem"A
+*http://schemas.android.com/apk/res/androidcolor@color/black*	
+)
