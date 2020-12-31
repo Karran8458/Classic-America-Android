@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_categoeries_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xhdpi\\ic_categoeries_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_product_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_back_pressed.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_action_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_ca_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_ca_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first_products_inner_page.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_first_products_inner_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_actionbar_final_page.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\custom_actionbar_final_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_document.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_document.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_bar.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_black.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxhdpi\\ic_product_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_actionbar.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\custom_actionbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_ca.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_ca.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_categoeries_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxhdpi\\ic_categoeries_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_back_pressed.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-anydpi\\ic_action_back_pressed.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_data_flow.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_data_flow.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail_contact_us_page.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\mail_contact_us_page.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_stock_details_items_row.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\stock_details_items_row.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_contact_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-mdpi\\ic_contact_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_request_form.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\product_request_form.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_ca.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_ca.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_ca_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_ca_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_categoeries_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-mdpi\\ic_categoeries_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_bar.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-hdpi\\ic_search_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdf_view_details.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_pdf_view_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_categoeries_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_categoeries_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second_page_product_details.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_second_page_product_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_selector.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_ca_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_ca_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_contact_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxhdpi\\ic_contact_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_categoeries_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-hdpi\\ic_categoeries_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_ca.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_ca.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardview_body.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\cardview_body.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_actionbar_inner.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\custom_actionbar_inner.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_products_specs.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\fragment_products_specs.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_contact_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_contact_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_ca_foreground.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_ca_foreground.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_bar.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-mdpi\\ic_search_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-mdpi\\ic_product_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_ca_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_ca_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_back_pressed.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_control_board_cat.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_control_board_cat.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_ca.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_ca.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\color_color_selector.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\color\\color_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_ca_round.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_ca_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send__contact_us_page.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\send__contact_us_page.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_ca_foreground.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_ca_foreground.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_ca_background.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_launcher_ca_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_blue.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_cart_blue.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_ca.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_ca.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mini_split_controls.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_mini_split_controls.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_ca_foreground.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_ca_foreground.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xhdpi\\ic_product_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_documents_view_page_details.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_documents_view_page_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_products_inner_items_row.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\products_inner_items_row.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_contact_us_page.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\phone_contact_us_page.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contact_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_back_pressed.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-mdpi\\ic_action_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_details_items_row.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\product_details_items_row.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_search_bar.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-anydpi\\ic_search_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_ca_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_ca_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_back_pressed.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_specs_view_page_details.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\activity_specs_view_page_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_ca.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_ca.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_contact_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_rounded_corners.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\button_bg_rounded_corners.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\layout_ztemp.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\layout\\ztemp.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.jpg.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\app_logo.jpg"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_back_pressed.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-hdpi\\ic_action_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_ca_foreground.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_ca_foreground.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_bar.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_menu.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable-hdpi\\ic_product_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_ca_foreground.png.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_ca_foreground.png"
+    },
+    {
+        "merged": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_border.xml.flat",
+        "source": "E:\\AndroidApps\\DemoApps\\ClassicAmerica\\app\\src\\main\\res\\drawable\\background_border.xml"
+    }
+]
