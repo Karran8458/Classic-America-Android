@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ClassicAmerica</string>
+<!--    <string name="title_home">Home</string>-->
+<!--    <string name="title_dashboard">Dashboard</string>-->
+<!--    <string name="title_notifications">Notifications</string>-->
+
+    <string name="title_home">Categories</string>
+    <string name="title_dashboard">Product Specs</string>
+    <string name="title_notifications">Contact us</string>
+    <string name="refer_tool">Quick Reference Tool For Installers and Service Contractors</string>
+    <string name="buy_product">Buy Product</string>
+    <string name="product_install_guide">Installation Guide</string>
+    <string name="product_specs">Product specs</string>
+    <string name="search_here">Search here…</string>
+    <string name="contact_us_text">Classic America is a global designer and manufacturer of custom HVAC electronic controls and thermostats.The company offers a wide range of electronic products designed exclusively for the heating and cooling OEM equipment industry.Our Office and warehpuse is located im Miami,Florida.</string>
+    <string name="pdf_show_local_progress_title">Download progress</string>
+    <string name="pdf_show_local_progress_content">Your file download</string>
+    <string name="permission_request_message">Permission Allowed</string>
+
+</resources>
