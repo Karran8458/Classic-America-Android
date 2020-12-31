@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hvac.classicamerice"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:7:5-76
+12-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:7:22-73
+13    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+13-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:8:5-76
+13-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:9:5-79
+14-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:10:5-81
+15-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:11:5-80
+16-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:9:5-79
+17-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:9:22-76
+18
+19    <application
+19-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:15:5-89:19
+20        android:allowBackup="true"
+20-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:16:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:hardwareAccelerated="true"
+23-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:22:9-43
+24        android:icon="@mipmap/ic_launcher_ca"
+24-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:17:9-46
+25        android:label="@string/app_name"
+25-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:18:9-41
+26        android:roundIcon="@mipmap/ic_launcher_ca_round"
+26-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:19:9-57
+27        android:supportsRtl="true"
+27-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:20:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme"
+29-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:21:9-40
+30        android:usesCleartextTraffic="true" >
+30-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:23:9-44
+31        <activity
+31-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:25:9-34:20
+32            android:name="com.hvac.classicamerice.MainActivity"
+32-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:26:13-41
+33            android:label="@string/app_name"
+33-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:28:13-45
+34            android:screenOrientation="portrait" >
+34-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:27:13-49
+35            <intent-filter>
+35-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:29:13-33:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:30:17-69
+36-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:30:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:32:17-77
+38-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:32:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:37:9-45:20
+42            android:name="com.hvac.classicamerice.activity.FirstPageInnerCategory"
+42-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:37:19-66
+43            android:parentActivityName="com.hvac.classicamerice.MainActivity"
+43-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:39:13-55
+44            android:screenOrientation="portrait" >
+44-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:38:13-49
+45            <meta-data
+45-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:41:13-43:49
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:42:17-63
+47                android:value=".MainActivity" />
+47-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:43:17-46
+48        </activity>
+49        <activity
+49-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:47:9-55:20
+50            android:name="com.hvac.classicamerice.activity.SecondProductDetailsPage"
+50-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:47:19-68
+51            android:parentActivityName="com.hvac.classicamerice.activity.FirstPageInnerCategory"
+51-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:49:13-74
+52            android:screenOrientation="portrait" >
+52-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:48:13-49
+53            <meta-data
+53-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:41:13-43:49
+54                android:name="android.support.PARENT_ACTIVITY"
+54-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:42:17-63
+55                android:value=".activity.FirstPageInnerCategory" />
+55-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:43:17-46
+56        </activity>
+57        <activity
+57-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:57:9-66:20
+58            android:name="com.hvac.classicamerice.activity.DocumentsViewPageActivity"
+58-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:57:19-69
+59            android:hardwareAccelerated="false"
+59-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:59:13-48
+60            android:parentActivityName="com.hvac.classicamerice.activity.SecondProductDetailsPage"
+60-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:60:13-76
+61            android:screenOrientation="portrait" >
+61-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:58:13-49
+62            <meta-data
+62-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:41:13-43:49
+63                android:name="android.support.PARENT_ACTIVITY"
+63-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:42:17-63
+64                android:value=".activity.SecondProductDetailsPage" />
+64-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:43:17-46
+65        </activity>
+66        <activity
+66-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:68:9-76:20
+67            android:name="com.hvac.classicamerice.activity.ProductsSpecsTabDetailsActivity"
+67-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:68:19-75
+68            android:parentActivityName="com.hvac.classicamerice.MainActivity"
+68-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:70:13-55
+69            android:screenOrientation="portrait" >
+69-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:69:13-49
+70            <meta-data
+70-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:41:13-43:49
+71                android:name="android.support.PARENT_ACTIVITY"
+71-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:42:17-63
+72                android:value=".MainActivity" />
+72-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:43:17-46
+73        </activity>
+74        <activity
+74-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:78:9-86:20
+75            android:name="com.hvac.classicamerice.activity.PDFViewDetailsPage"
+75-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:78:19-62
+76            android:parentActivityName="com.hvac.classicamerice.activity.SecondProductDetailsPage"
+76-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:80:13-76
+77            android:screenOrientation="portrait" >
+77-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:79:13-49
+78            <meta-data
+78-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:41:13-43:49
+79                android:name="android.support.PARENT_ACTIVITY"
+79-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:42:17-63
+80                android:value=".activity.SecondProductDetailsPage" />
+80-->E:\AndroidApps\DemoApps\ClassicAmerica\app\src\main\AndroidManifest.xml:43:17-46
+81        </activity>
+82
+83        <provider
+83-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+84            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+84-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+85            android:authorities="com.hvac.classicamerice.lifecycle-process"
+85-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+86            android:exported="false"
+86-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+87            android:multiprocess="true" />
+87-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+88    </application>
+89
+90</manifest>
