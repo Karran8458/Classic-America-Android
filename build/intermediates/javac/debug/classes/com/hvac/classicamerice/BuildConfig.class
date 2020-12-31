@@ -1,0 +1,10 @@
+Êþº¾   3 +
+   
+   !	  " # $ DEBUG Z APPLICATION_ID Ljava/lang/String; 
+ConstantValue % 
+BUILD_TYPE & VERSION_CODE I    VERSION_NAME ' <init> ()V Code LineNumberTable LocalVariableTable this %Lcom/hvac/classicamerice/BuildConfig; <clinit> 
+SourceFile BuildConfig.java   true ( ) *   #com/hvac/classicamerice/BuildConfig java/lang/Object com.hvac.classicamerice debug 1.0 java/lang/Boolean parseBoolean (Ljava/lang/String;)Z 1            	 
+        
+ 
+                  
+               /     *· ±                               !      	¸ ³ ±                 
