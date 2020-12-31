@@ -1,0 +1,112 @@
+
+https://www.acr4sale.com/returns-and-refunds/ 
+https://www.acr4sale.com/terms/
+
+The login details are as follows
+
+Email		: kgowda@eckerd.edu
+Password	: Karran11!
+
+
+The login details are as follows:
+Username/Email	: kgowda@eckerd.edu
+Password		: Karran11!
+
+
+APP UserName : HVAC Controls
+
+
+///////////////////////////////////////////////
+
+			JKS Keystore Details:
+			===================================
+			
+	JKS key path			:	E:\AndroidApps\PlayStoreApps\VTRONIX\app\vtronix_key.jks
+	
+	Password				:	vtronix
+	
+	Alais					:	vtronix_key
+	
+	Password				:	vtronix
+	
+	Firstname and lastname 	:	Vtronix Merchant
+
+	Organizational Unit		: 	Growtechnologies
+
+	Organization 			: 	info.growtechnologies
+
+	City or Locality 		: 	Chennai
+
+	State or Province 		:	TamilNadu
+
+	Country code(xx)		: 	IN
+	
+	//////////////////////////////////////////
+	
+	
+	
+	/////////////////////////////////////////////////////////////
+	
+	Package name Change and updated in Playstore [11-08-2020]
+	=========================================================
+	
+	  signingConfigs {
+        vtronix_release {
+            storeFile file('E:\\AndroidApps\\PlayStoreApps\\VTRONIX\\app\\vtronix_key.jks')
+            storePassword 'vtronix'
+            keyPassword 'vtronix'
+            keyAlias 'vtronix_key'
+        }
+    }
+	
+	
+	C:\Users\user\Desktop\OTHERS\PlayStore APK\CLASSIC America APK\version-1
+	
+	
+	C:\Users\user\Desktop\OTHERS\PlayStore APK\PlayStoreKeys-Files\Classic America key
+	
+	
+	
+	E:\AndroidApps\DemoApps\ClassicAmerica\app\hvac_ca.jks	
+	
+	JKS key path			:	E:\AndroidApps\DemoApps\ClassicAmerica\app\hvac_ca.jks
+	
+	Password				:	clssic_vtronix
+	
+	Alais					:	clssic_vtronix_key
+	
+	Password				:	clssic_vtronix
+	
+	Firstname and lastname 	:	CLASSIC Vtronix
+
+	Organizational Unit		: 	CLASSIC AMERICA
+
+	Organization 			: 	HVAC Controls
+
+	City or Locality 		: 	Chennai
+
+	State or Province 		:	TamilNadu
+
+	Country code(xx)		: 	IN
+	
+	
+	////////////////////////////////////////////////////////////////
+	
+	To know our Products and Flow Diagram for our users.
+	
+	
+	
+	
+	Description: This app allows existing and potential customers to check product information prior to contacting us directly or going to the website.
+You may receive a total refund for products purchased online if you cancel the sale before the merchandise is shipped. 
+We will also gladly accept returns as long as they meet the following criteria:
+acr4sale.com offers the ultimate 30 DAYS MONEY BACK GUARANTEE. You may return uninstalled merchandise, in original condition. If you are not completely satisfied with your order, you can contact us here before returning our products. All products must be received by acr4sale.com, at our warehouse, within 30 days from your order shipping date. Returned products must be in new condition, unopened, unused, in original packaging (including pallets and shrink wrapping), uninstalled, and include all packing materials, installation kits, remotes, and other accessories and must be received within 30 days of the original shipping Bill of Landing (BOL) date.
+AC equipment must be shipped back palletized, shrink wrapped, strapped and secured safely to the pallet. Remote controls and accessories may be returned by USPS mail with tracking number or by UPS ground shipping. The buyer is responsible for all shipping, handling and insurance costs back to our warehouse(s). It is the responsibility of the buyer that we receive the product in its original undamaged condition. Unopened or opened box, and everything, including product and packaging, is in its exact original condition, product never installed.
+
+
+This app allows existing and potential customers to check product information prior to contacting us directly or going to the website
+
+
+
+
+Release ->Production->App bundles and APKs-->click to upload.
